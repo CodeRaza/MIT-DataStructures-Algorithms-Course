@@ -8,10 +8,10 @@ This course is an introduction to mathematical modeling of computational problem
     - Dr. Jason Ku
     - Prof. Justin Solomon
 ##Departments
-Electrical Engineering and Computer Science
-Topics
-Engineering
-Computer Science
-Algorithms and Data Structures
-Theory of Computation
-Mathematics
+ - Electrical Engineering and Computer Science
+##Topics
+ - Engineering
+ - Computer Science
+ - Algorithms and Data Structures
+ - Theory of Computation
+ - Mathematics
