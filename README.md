@@ -17,6 +17,6 @@ This course is an introduction to mathematical modeling of computational problem
 
  - Engineering
  - Computer Science
- - Algorithms and Data Structures
- - Theory of Computation
+    - Algorithms and Data Structures
+    - Theory of Computation
  - Mathematics
